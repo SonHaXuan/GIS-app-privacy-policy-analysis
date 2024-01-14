@@ -1,0 +1,5 @@
+Download Range,Good Standard,Bad Standard
+More than 100M+,0,2
+More than 10M+ and Less Than 100M+,11,3
+More than 1M+ and Less Than 10M+,24,9
+Less than 1M+,36,30
